@@ -4,7 +4,7 @@ from io import BytesIO
 
 
 st.title("Anything QR 👾")
-st.image("C:/Users/raktm/rk/images.png")
+#st.image("C:/Users/raktm/rk/images.png")
 up_file=st.file_uploader(" Upload your stuff here (image,pdf,etc.) .", type=None)
 txt_inp=st.text_area("Enter your text here.", height=10)
 
