@@ -3,8 +3,8 @@
 **Transform your imagination into scannable art!**
 *Anything\_QR* is a quirky and delightful QR code generator that lets you encode anything you fancy—be it text, emojis, or even ASCII art—into a QR code. Whether you're looking to share a secret message, a favorite quote, or just some random fun, Anything\_QR has got you covered!
 
-🚀 **Live Demo:** [Try it here!](https://anythingqr.streamlit.app/)
-
+🚀 **Live Demo:** 
+[![Try It](https://img.shields.io/badge/Try%20Here-yellow?style=for-the-badge)](https://anythingqr.streamlit.app/)
 ---
 
 ## ✨ Features
@@ -57,7 +57,7 @@ To run Anything\_QR locally, ensure you have Python installed, then follow these
 
 ## 📸 Screenshots
 
-![Anything\_QR Interface](![image](https://github.com/user-attachments/assets/6c2ed923-e28a-49e7-a683-9e4d685c49da)
+![Anything\_QR Interface](![image](![Screenshot 2025-05-25 192032](https://github.com/user-attachments/assets/f8b0b416-39a8-4023-82eb-2c64a98a278b)
 )
 
 *Experience the magic of turning anything into a QR code!*
